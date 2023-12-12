@@ -1,3 +1,3 @@
 # testrepository
-just testig and learning 
+just testing and learning 
 the process
