@@ -1,5 +1,12 @@
-#  Some crap 
+#  Some crap that failed in Q2 - py project course
 
+# having installed and imported the following 
+
+#!mamba install bs4==4.10.0 -y
+#!pip install lxml==4.6.4
+#!mamba install html5lib==1.1 -y
+#from bs4 import BeautifulSoup 
+#requests lib was also installed
 
 #pd.read_html(str(tables[5]), flavor='bs4')
 #dataframe_list = pd.read_html(url, flavor='bs4')
