@@ -1,0 +1,15 @@
+#  Some crap 
+
+
+#pd.read_html(str(tables[5]), flavor='bs4')
+#dataframe_list = pd.read_html(url, flavor='bs4')
+
+#tables = soup.find_all('tbody')[1]
+#table_index = 1
+#read_html_tesla_data = pd.read_html(str(tables[1]), flavor='bs4')
+#read_html_tesla_data = pd.read_html(str(soup))
+
+#tesla_revenue = read_html_tesla_data[0]
+
+#tesla_revenue.columns
+#tesla_revenue.head()
